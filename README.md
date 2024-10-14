@@ -6,5 +6,5 @@ This matrix is a protein-by-sample matrix, containing 109 patient samples of dif
 For more information and citation:<br>
 DOI: https://doi.org/10.1007/s43657-022-00075-w (PMID: 37197640)
 ```
-Ku, X.*, Wang, J.*, Li, H.*, Meng, C., Yu, F., Yu, W., ... & Jin, J. (2023). Proteomic portrait of human lymphoma reveals protein molecular fingerprint of disease specific subtypes and progression. Phenomics, 3(2), 148-166.
+Ku, X.*, Wang, J.*, Li, H.*, Meng, C., Yu, F., Yu, W., Li, Z., Zhou, Z., Zhang, C., Hua, Y. and Yan, W., 2023. Proteomic portrait of human lymphoma reveals protein molecular fingerprint of disease specific subtypes and progression. Phenomics, 3(2), pp.148-166.
 ```
